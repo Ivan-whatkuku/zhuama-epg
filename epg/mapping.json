@@ -1,0 +1,322 @@
+{
+  "AnhuiTV.cn": {
+    "upstreamID": "AnhuiTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "anhui"
+  },
+  "BeijingSatelliteTV.cn": {
+    "upstreamID": "BeijingSatelliteTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "btv1"
+  },
+  "BRTVKakuChildrensChannel.cn": {
+    "upstreamID": "BRTVKakuChildrensChannel.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "btvchild"
+  },
+  "CCTV1.cn": {
+    "upstreamID": "CCTV1.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv1"
+  },
+  "CCTV2.cn": {
+    "upstreamID": "CCTV2.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv2"
+  },
+  "CCTV3.cn": {
+    "upstreamID": "CCTV3.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv3"
+  },
+  "CCTV5Plus.cn": {
+    "upstreamID": "CCTV5Plus.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv5plus"
+  },
+  "CCTV6.cn": {
+    "upstreamID": "CCTV6.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv6"
+  },
+  "CCTV7.cn": {
+    "upstreamID": "CCTV7.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv7"
+  },
+  "CCTV8.cn": {
+    "upstreamID": "CCTV8.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv8"
+  },
+  "CCTV10.cn": {
+    "upstreamID": "CCTV10.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv10"
+  },
+  "CCTV11.cn": {
+    "upstreamID": "CCTV11.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv11"
+  },
+  "CCTV12.cn": {
+    "upstreamID": "CCTV12.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv12"
+  },
+  "CCTV13.cn": {
+    "upstreamID": "CCTV13.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv13"
+  },
+  "CCTV15.cn": {
+    "upstreamID": "CCTV15.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctv15"
+  },
+  "CCTV4America.cn": {
+    "upstreamID": "CCTV4America.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctvamerica"
+  },
+  "CCTV14.cn": {
+    "upstreamID": "CCTV14.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctvchild"
+  },
+  "CCTV4Europe.cn": {
+    "upstreamID": "CCTV4Europe.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctveurope"
+  },
+  "CCTVStormFootball.cn": {
+    "upstreamID": "CCTVStormFootball.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctvfyzq"
+  },
+  "CCTVGolfTennis.cn": {
+    "upstreamID": "CCTVGolfTennis.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctvgaowang"
+  },
+  "CCTV9.cn": {
+    "upstreamID": "CCTV9.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cctvjilu"
+  },
+  "CETV1.cn": {
+    "upstreamID": "CETV1.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cetv1"
+  },
+  "CETV2.cn": {
+    "upstreamID": "CETV2.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "cetv2"
+  },
+  "CCTVTheFirstTheater.cn": {
+    "upstreamID": "CCTVTheFirstTheater.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "diyijuchang"
+  },
+  "CCTVStormTheater.cn": {
+    "upstreamID": "CCTVStormTheater.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "fyjc"
+  },
+  "CCTVStormMusic.cn": {
+    "upstreamID": "CCTVStormMusic.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "fyyy"
+  },
+  "GuangdongSatelliteTV.cn": {
+    "upstreamID": "GuangdongSatelliteTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "guangdong"
+  },
+  "GuizhouTV.cn": {
+    "upstreamID": "GuizhouTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "guizhou"
+  },
+  "HebeiTV.cn": {
+    "upstreamID": "HebeiTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "hebei"
+  },
+  "HeilongjiangTV.cn": {
+    "upstreamID": "HeilongjiangTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "heilongjiang"
+  },
+  "CCTVNostalgiaTheater.cn": {
+    "upstreamID": "CCTVNostalgiaTheater.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "hjjc"
+  },
+  "HunanTV.cn": {
+    "upstreamID": "HunanTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "hunan"
+  },
+  "JiangsuSatelliteTV.cn": {
+    "upstreamID": "JiangsuSatelliteTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "jiangsu"
+  },
+  "JiangxiTV.cn": {
+    "upstreamID": "JiangxiTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "jiangxi"
+  },
+  "CCTVCultureofQuality.cn": {
+    "upstreamID": "CCTVCultureofQuality.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "jingpin"
+  },
+  "LiaoningTV.cn": {
+    "upstreamID": "LiaoningTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "liaoning"
+  },
+  "NingxiaSatelliteChannel.cn": {
+    "upstreamID": "NingxiaSatelliteChannel.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "ningxia"
+  },
+  "QinghaiTV.cn": {
+    "upstreamID": "QinghaiTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "qinghai"
+  },
+  "ShandongTV.cn": {
+    "upstreamID": "ShandongTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "shandong"
+  },
+  "CCTVWorldGeography.cn": {
+    "upstreamID": "CCTVWorldGeography.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "shijiedili"
+  },
+  "CCTVWomensFashion.cn": {
+    "upstreamID": "CCTVWomensFashion.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "shishang"
+  },
+  "CCTVBilliards.cn": {
+    "upstreamID": "CCTVBilliards.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "taiqiu"
+  },
+  "TianjinTV.cn": {
+    "upstreamID": "TianjinTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "tianjin"
+  },
+  "CCTVHealth.cn": {
+    "upstreamID": "CCTVHealth.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "wsjk"
+  },
+  "XizangTVChinese.cn": {
+    "upstreamID": "XizangTVChinese.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "xinjiang"
+  },
+  "ZhejiangSatelliteTV.cn": {
+    "upstreamID": "ZhejiangSatelliteTV.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "zhejiang"
+  },
+  "RTHKTV31.hk": {
+    "upstreamID": "RTHKTV31.hk@SD",
+    "site": "rthk.hk",
+    "siteID": "31"
+  },
+  "RTHKTV32.hk": {
+    "upstreamID": "RTHKTV32.hk@SD",
+    "site": "rthk.hk",
+    "siteID": "32"
+  },
+  "RTHKTV33.hk": {
+    "upstreamID": "RTHKTV33.hk@SD",
+    "site": "rthk.hk",
+    "siteID": "33"
+  },
+  "RTHKTV34.hk": {
+    "upstreamID": "RTHKTV34.hk@SD",
+    "site": "rthk.hk",
+    "siteID": "34"
+  },
+  "KIX.hk": {
+    "upstreamID": "KIX.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "CKIX"
+  },
+  "MeiAhMovieChannel.hk": {
+    "upstreamID": "MeiAhMovieChannel.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "CMAM"
+  },
+  "TVBSAsia.tw": {
+    "upstreamID": "TVBSAsia.tw@SD",
+    "site": "mytvsuper.com",
+    "siteID": "CTS1"
+  },
+  "TVBSNews.tw": {
+    "upstreamID": "TVBSNews.tw@SD",
+    "site": "mytvsuper.com",
+    "siteID": "CTSN"
+  },
+  "AsianDrama.hk": {
+    "upstreamID": "AsianDrama.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "CTVS"
+  },
+  "Jade.hk": {
+    "upstreamID": "Jade.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "J"
+  },
+  "PhoenixChineseChannel.hk": {
+    "upstreamID": "PhoenixChineseChannel.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "PCC"
+  },
+  "PhoenixInfoNewsChannel.hk": {
+    "upstreamID": "PhoenixInfoNewsChannel.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "PIN"
+  },
+  "GoldenJade.hk": {
+    "upstreamID": "GoldenJade.hk@SD",
+    "site": "mytvsuper.com",
+    "siteID": "TVG"
+  },
+  "CCTV4Asia.cn": {
+    "upstreamID": "CCTV4Asia.cn@SD",
+    "site": "nowplayer.now.com",
+    "siteID": "542"
+  },
+  "CGTN.cn": {
+    "upstreamID": "CGTN.cn@SD",
+    "site": "nowplayer.now.com",
+    "siteID": "330"
+  },
+  "ShenzhenSatelliteTV.cn": {
+    "upstreamID": "ShenzhenSatelliteTV.cn@SD",
+    "site": "nowplayer.now.com",
+    "siteID": "540"
+  },
+  "TaiwanPlusTV.tw": {
+    "upstreamID": "TaiwanPlusTV.tw@SD",
+    "site": "taiwanplus.com",
+    "siteID": "#"
+  },
+  "CelestialMovies.hk": {
+    "upstreamID": "CelestialMovies.hk@SD",
+    "site": "starhubtvplus.com",
+    "siteID": "b8b921c8-3798-40b7-aab9-cb2eca3a5159"
+  }
+}
