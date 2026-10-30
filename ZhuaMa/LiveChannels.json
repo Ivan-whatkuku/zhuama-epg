@@ -1,0 +1,3959 @@
+{
+  "generatedAt": "2026-10-30T09:30:27Z",
+  "channels": [
+    {
+      "id": "AndoTV.cn",
+      "name": "Ando TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/EpTsFVu.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BRTVKakuChildrensChannel.cn",
+      "name": "BRTV 卡酷少儿",
+      "country": "CN",
+      "logo": "https://i.imgur.com/t8X4wPZ.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BSTV.hk",
+      "name": "BSTV",
+      "country": "HK",
+      "logo": "https://i.imgur.com/GVYSSgm.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BeautifulLifeTV.tw",
+      "name": "Beautiful Life TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/hkwcBM9.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVPlus1.cn",
+      "name": "CCTV+ 1",
+      "country": "CN",
+      "logo": "https://i.imgur.com/U8d4Is6.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+          "quality": "600p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVPlus2.cn",
+      "name": "CCTV+ 2",
+      "country": "CN",
+      "logo": "https://i.imgur.com/qSg862A.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+          "quality": "600p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV1.cn",
+      "name": "CCTV-1 综合",
+      "country": "CN",
+      "logo": "https://i.imgur.com/TpA3cUl.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://198.204.240.250:82/live/cctv1.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv1.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV10.cn",
+      "name": "CCTV-10 科教",
+      "country": "CN",
+      "logo": "https://i.imgur.com/sSSO7UD.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8",
+          "quality": "576i",
+          "userAgent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+          "referrer": null
+        },
+        {
+          "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV11.cn",
+      "name": "CCTV-11 戏曲",
+      "country": "CN",
+      "logo": "https://i.imgur.com/CjOWx7L.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV12.cn",
+      "name": "CCTV-12 社会与法",
+      "country": "CN",
+      "logo": "https://i.imgur.com/3yTuiOM.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV13.cn",
+      "name": "CCTV-13 新闻",
+      "country": "CN",
+      "logo": "https://i.imgur.com/6MTar6J.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV14.cn",
+      "name": "CCTV-14 少儿",
+      "country": "CN",
+      "logo": "https://i.imgur.com/c5SXW7i.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV15.cn",
+      "name": "CCTV-15 音乐",
+      "country": "CN",
+      "logo": "https://i.imgur.com/CCV0eRG.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV16.cn",
+      "name": "CCTV-16 奥林匹克",
+      "country": "CN",
+      "logo": "https://i.imgur.com/ZzV6JQp.png",
+      "category": "央视",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV17.cn",
+      "name": "CCTV-17 农业农村",
+      "country": "CN",
+      "logo": "https://i.imgur.com/jSQURxS.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV2.cn",
+      "name": "CCTV-2 财经",
+      "country": "CN",
+      "logo": "https://i.imgur.com/ILamhwU.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV3.cn",
+      "name": "CCTV-3 综艺",
+      "country": "CN",
+      "logo": "https://i.imgur.com/iFlkIuw.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV4Asia.cn",
+      "name": "CCTV-4 中文国际亚洲",
+      "country": "CN",
+      "logo": "https://i.imgur.com/tWt4Wou.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV4Europe.cn",
+      "name": "CCTV-4 中文国际欧洲",
+      "country": "CN",
+      "logo": "https://i.imgur.com/HGLFdfk.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV4America.cn",
+      "name": "CCTV-4 中文国际美洲",
+      "country": "CN",
+      "logo": "https://i.imgur.com/gBbLyqh.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV4K.cn",
+      "name": "CCTV-4K 超高清",
+      "country": "CN",
+      "logo": "https://i.imgur.com/fxusYlX.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://198.204.240.250:82/live/cctv4k.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV5Plus.cn",
+      "name": "CCTV-5+ 体育赛事",
+      "country": "CN",
+      "logo": "https://i.imgur.com/OK8mdJV.png",
+      "category": "央视",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV6.cn",
+      "name": "CCTV-6 电影",
+      "country": "CN",
+      "logo": "https://i.imgur.com/rFiaef7.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://69.30.245.50/live/cctv6.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV7.cn",
+      "name": "CCTV-7 国防军事",
+      "country": "CN",
+      "logo": "https://i.imgur.com/CKcPMQC.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV8.cn",
+      "name": "CCTV-8 电视剧",
+      "country": "CN",
+      "logo": "https://i.imgur.com/GyHaZ8X.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV8K.cn",
+      "name": "CCTV-8K 超高清",
+      "country": "CN",
+      "logo": "https://i.imgur.com/fxVPMJF.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://192.151.150.154/live/cctv8k.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://198.204.240.250:82/live/cctv8k.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTV9.cn",
+      "name": "CCTV-9 纪录",
+      "country": "CN",
+      "logo": "https://i.imgur.com/3tivvMm.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://xykt-fix.github.io/Y77.m3u8",
+          "quality": "576i",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVWorldGeography.cn",
+      "name": "CCTV-世界地理",
+      "country": "CN",
+      "logo": "https://i.imgur.com/V2ncOXi.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVWeaponTechnology.cn",
+      "name": "CCTV-兵器科技",
+      "country": "CN",
+      "logo": "https://i.imgur.com/QlF96eS.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVHealth.cn",
+      "name": "CCTV-卫生健康",
+      "country": "CN",
+      "logo": "https://i.imgur.com/AzpRtCz.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVBilliards.cn",
+      "name": "CCTV-央视台球",
+      "country": "CN",
+      "logo": "https://i.imgur.com/WK3keM9.png",
+      "category": "央视",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVCultureofQuality.cn",
+      "name": "CCTV-央视文化精品",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Paig8gG.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVWomensFashion.cn",
+      "name": "CCTV-女性时尚",
+      "country": "CN",
+      "logo": "https://i.imgur.com/FVbP0aP.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVNostalgiaTheater.cn",
+      "name": "CCTV-怀旧剧场",
+      "country": "CN",
+      "logo": "https://i.imgur.com/TVs9PBc.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVTheFirstTheater.cn",
+      "name": "CCTV-第一剧场",
+      "country": "CN",
+      "logo": "https://i.imgur.com/eFxD3hq.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVStormTheater.cn",
+      "name": "CCTV-风云剧场",
+      "country": "CN",
+      "logo": "https://i.imgur.com/rEttkKm.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVStormFootball.cn",
+      "name": "CCTV-风云足球",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Fy6HkX0.png",
+      "category": "央视",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVStormMusic.cn",
+      "name": "CCTV-风云音乐",
+      "country": "CN",
+      "logo": "https://i.imgur.com/IiiRmrf.png",
+      "category": "央视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CCTVGolfTennis.cn",
+      "name": "CCTV-高尔夫·网球",
+      "country": "CN",
+      "logo": "https://i.imgur.com/iqJJTmH.png",
+      "category": "央视",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGNTVChinese.tw",
+      "name": "CGN中文台",
+      "country": "TW",
+      "logo": "https://i.imgur.com/bPoPAbR.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTN.cn",
+      "name": "CGTN",
+      "country": "CN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://0472.org/hls/cgtn.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNArabic.cn",
+      "name": "CGTN Arabic",
+      "country": "CN",
+      "logo": "https://i.imgur.com/AkFFrS7.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNDocumentary.cn",
+      "name": "CGTN Documentary",
+      "country": "CN",
+      "logo": "https://i.imgur.com/JHv0WxM.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNFrench.cn",
+      "name": "CGTN French",
+      "country": "CN",
+      "logo": "https://i.imgur.com/BwhledK.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNGlobalBiz.cn",
+      "name": "CGTN Global Biz",
+      "country": "CN",
+      "logo": "https://i.imgur.com/qBmomnF.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNRussian.cn",
+      "name": "CGTN Russian",
+      "country": "CN",
+      "logo": "https://i.imgur.com/nDWkCmL.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CGTNSpanish.cn",
+      "name": "CGTN Spanish",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Poz3xfi.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://45.165.82.19/test/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://45.186.106.147:8880/play/a06f/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CHCAction.cn",
+      "name": "CHC动作电影",
+      "country": "CN",
+      "logo": "https://i.imgur.com/AuiVcyh.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CHCHomeTheater.cn",
+      "name": "CHC家庭影院",
+      "country": "CN",
+      "logo": "https://i.imgur.com/AwBldBE.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChinaTravel.cn",
+      "name": "China Travel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/vSgY3CD.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DaAi2.tw",
+      "name": "DaAi 2",
+      "country": "TW",
+      "logo": "https://i.imgur.com/KdJi9af.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DaliTV.tw",
+      "name": "Dali TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/pFIMLsA.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DiscoveringChina.cn",
+      "name": "Discovering China",
+      "country": "CN",
+      "logo": "https://i.imgur.com/wr2bLaA.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DunhuangTV.cn",
+      "name": "Dunhuang TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/RpGKOQd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.156.28.119/270000001111/1110000028/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "EBCFinancialNews.tw",
+      "name": "EBC Financial News",
+      "country": "TW",
+      "logo": "https://i.imgur.com/uFDkOhV.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "EBCForeignMovie.tw",
+      "name": "EBC Foreign Movie",
+      "country": "TW",
+      "logo": "https://i.imgur.com/oUhYdea.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "EBCNews.tw",
+      "name": "EBC News",
+      "country": "TW",
+      "logo": "https://i.imgur.com/QFZs80p.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GoldenEagleCartoon.cn",
+      "name": "Golden Eagle Cartoon",
+      "country": "CN",
+      "logo": "https://i.imgur.com/xfVHrKQ.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://1.24.190.98:10080/hls/51/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8",
+          "quality": "540p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GoodTV.tw",
+      "name": "Good TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/k28Kc3o.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GuangdongSatelliteTV.cn",
+      "name": "Guangdong Satellite TV",
+      "country": "CN",
+      "logo": "https://parco-zh.github.io/demo/guangdong.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GuangzhouTV.cn",
+      "name": "Guangzhou TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/ff3KQXp.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GuizhouTV.cn",
+      "name": "Guizhou TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/nkcKCdr.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://125.210.152.18:9090/live/GZWSHD_H265.m3u8",
+          "quality": "360p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HarbinMovieChannel.cn",
+      "name": "Harbin Movie Channel",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HebiNewsChannel.cn",
+      "name": "Hebi News Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Osw5yRW.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
+          "quality": "480p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HezhengTV.cn",
+      "name": "Hezheng TV",
+      "country": "CN",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.156.28.119/270000001111/1110000149/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HighChannelTV.cn",
+      "name": "High Channel TV",
+      "country": "CN",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.156.28.119/270000001111/1110000146/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HunanTV.cn",
+      "name": "Hunan TV",
+      "country": "CN",
+      "logo": "https://parco-zh.github.io/demo/HNWS.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+          "quality": "2160p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiTV.cn",
+      "name": "Jiangxi TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/RrLthH3.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/jxwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://125.210.152.18:9090/live/JXWSHD_H265.m3u8",
+          "quality": "360p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.15/PLTV/4/224/3221225798/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiuquanTVNewsComprehensiveChannel.cn",
+      "name": "Jiuquan TV News Comprehensive Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/mPkG8Gi.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.156.28.119/270000001111/1110000001/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "KIX.hk",
+      "name": "KIX",
+      "country": "HK",
+      "logo": "https://i.imgur.com/zWcUAdb.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9901",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "LiaoningTV.cn",
+      "name": "Liaoning TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/XRfeNTd.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://125.210.152.18:9090/live/LNWSHD_H265.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "MOMOTV.tw",
+      "name": "MOMO購物台",
+      "country": "TW",
+      "logo": "https://m.momoshop.com.tw/img/message.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "NeiMonggolTV2MongolianCultureChannel.cn",
+      "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/kpsjahG.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://1.24.190.98:10080/hls/40/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://play1-qk.nmtv.cn/live/1769652109096027.m3u8",
+          "quality": "1080i",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "NewsWorld.hk",
+      "name": "NewsWorld",
+      "country": "HK",
+      "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "PTS3.tw",
+      "name": "PTS 3",
+      "country": "TW",
+      "logo": "https://i.imgur.com/I6sVDDt.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "PetClubTV.hk",
+      "name": "Pet Club TV",
+      "country": "HK",
+      "logo": "https://i.imgur.com/ykPNNwQ.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "PingxiangTVNewsChannel.cn",
+      "name": "Pingxiang TV News Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Kc7htop.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QinghaiTV.cn",
+      "name": "Qinghai TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Nyuxo8S.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8",
+          "quality": "540p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SETNews.tw",
+      "name": "SET News",
+      "country": "TW",
+      "logo": "https://i.imgur.com/EGVbAvJ.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SJTV.tw",
+      "name": "SJTV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/PTsFn9B.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTV.cn",
+      "name": "Shandong TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/t3ICc4i.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.139/PLTV/4/224/3221227448/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225804/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVAgriculturalScienceChannel.cn",
+      "name": "Shandong TV Agricultural Science Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/EY2zH06.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8",
+          "quality": "406p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVChildrensChannel.cn",
+      "name": "Shandong TV Children's Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/ph7YKNa.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/sepd.m3u8",
+          "quality": "406p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVLifeChannel.cn",
+      "name": "Shandong TV Life Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/bWPiC14.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/shpd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVQiluChannel.cn",
+      "name": "Shandong TV Qilu Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/U9wNMmm.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/qlpd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVSportsChannel.cn",
+      "name": "Shandong TV Sports Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/zX4RxvG.png",
+      "category": "地方频道",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/typd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongTVVarietyChannel.cn",
+      "name": "Shandong TV Variety Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/a2XK8N9.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://livealone302.iqilu.com/iqilu/zypd.m3u8",
+          "quality": "406p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SichuanSatelliteTV.cn",
+      "name": "Sichuan Satellite TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/r5xivih.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8",
+          "quality": "540p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://125.210.152.18:9090/live/SCWSHD_H265.m3u8",
+          "quality": "360p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SichuanTVWomenandChildrenChannel.cn",
+      "name": "Sichuan TV Women and Children Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/1lGO0vY.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SupremeMasterTV.tw",
+      "name": "Supreme Master TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/kFMHayP.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TTVNews.tw",
+      "name": "TTV News",
+      "country": "TW",
+      "logo": "https://i.imgur.com/AfkK0gv.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://live.wcetv.com/hls/master-ttvnews.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TVBRICSChinese.cn",
+      "name": "TV BRICS Chinese",
+      "country": "CN",
+      "logo": "https://i.imgur.com/896132Z.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TVBSNews.tw",
+      "name": "TVBS News",
+      "country": "TW",
+      "logo": "https://i.imgur.com/171lwfg.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TVBSAsia.tw",
+      "name": "TVBS-Asia",
+      "country": "TW",
+      "logo": "https://i.imgur.com/4S1rkhm.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "Jade.hk",
+      "name": "TVB翡翠台",
+      "country": "HK",
+      "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TaiwanIndigenousTV.tw",
+      "name": "Taiwan Indigenous TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/QqIdVqz.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TaiwanPlusTV.tw",
+      "name": "Taiwan Plus TV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/SfcZyqm.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TianjinTV.cn",
+      "name": "Tianjin TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Bg24eaH.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/tjwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227407/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.170/PLTV/3/224/3221227212/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "VoATVChina.cn",
+      "name": "VOA美国之音",
+      "country": "CN",
+      "logo": "https://i.imgur.com/XCTZkoq.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "WXTV.tw",
+      "name": "WXTV",
+      "country": "TW",
+      "logo": "https://i.imgur.com/s8tiTeb.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+          "quality": "480p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XianBusinessInformationChannel.cn",
+      "name": "Xi'an Business Information Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/dzdiY4O.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://stream2.xiancity.cn/xatv3/playlist.m3u8",
+          "quality": "180p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XianSilkRoadChannel.cn",
+      "name": "Xi'an Silk Road Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/52i1Qnz.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://stream2.xiancity.cn/xatv5/playlist.m3u8",
+          "quality": "404p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XinjiangTV1.cn",
+      "name": "Xinjiang TV 1",
+      "country": "CN",
+      "logo": "https://i.imgur.com/VLaQYn4.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XinjiangTV2.cn",
+      "name": "Xinjiang TV 2",
+      "country": "CN",
+      "logo": "https://i.imgur.com/GXFLqxx.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XinjiangTV3.cn",
+      "name": "Xinjiang TV 3",
+      "country": "CN",
+      "logo": "https://i.imgur.com/l8S5qQB.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://110.153.180.106:55555/out_2/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XinjiangTV5.cn",
+      "name": "Xinjiang TV 5",
+      "country": "CN",
+      "logo": "https://i.imgur.com/PARupWK.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XinjiangTV8.cn",
+      "name": "Xinjiang TV 8",
+      "country": "CN",
+      "logo": "https://i.imgur.com/JJw1Ndc.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XizangTVChinese.cn",
+      "name": "Xizang TV Chinese",
+      "country": "CN",
+      "logo": "https://i.imgur.com/V0v3ST5.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XuzhouEconomicLifeChannel.cn",
+      "name": "Xuzhou Economic Life Channel",
+      "country": "CN",
+      "logo": null,
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "YanbianSatelliteTV.cn",
+      "name": "Yanbian Satellite TV",
+      "country": "CN",
+      "logo": "https://i.imgur.com/UKKsnhD.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "YouManCartoonChannel.cn",
+      "name": "You Man Cartoon Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/GZInf2W.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ZhejiangInternationalChannel.cn",
+      "name": "Zhejiang International Channel",
+      "country": "CN",
+      "logo": "https://i.imgur.com/XOL1Hph.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DragonTVInternational.cn",
+      "name": "东方卫视国际",
+      "country": "CN",
+      "logo": "https://i.imgur.com/WqM6xnF.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8",
+          "quality": "480p",
+          "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+          "referrer": "https://www.dens.tv/"
+        },
+        {
+          "url": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DongguanComprehensiveNewsChannel.cn",
+      "name": "东莞广播电视台",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/dgtv1.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CETV1.cn",
+      "name": "中国教育电视台",
+      "country": "CN",
+      "logo": "https://i.imgur.com/6sOHLq8.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CETV2.cn",
+      "name": "中国教育电视台",
+      "country": "CN",
+      "logo": "https://i.imgur.com/ZD8XPmw.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChinaWeatherChannel.cn",
+      "name": "中国气象频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/syNwDpg.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CNDFilmMiddleSchoolChannel.cn",
+      "name": "中央新影-中学生",
+      "country": "CN",
+      "logo": "https://i.imgur.com/4uG8HsQ.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CNDFilmDiscoveryChannel.cn",
+      "name": "中央新影-发现之旅",
+      "country": "CN",
+      "logo": "https://i.imgur.com/2FJfPDx.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JilinRuralChannel.cn",
+      "name": "乡村频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "YunnanSatelliteTV.cn",
+      "name": "云南卫视",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/yunnantv.jpg",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "AsianDrama.hk",
+      "name": "亞洲劇台",
+      "country": "HK",
+      "logo": "https://i.imgur.com/wqtN7mH.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV4.cn",
+      "name": "休闲资讯频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv4.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiPublicAgricultureChannel.cn",
+      "name": "公共·农业频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jxgg.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BingtuanSatelliteTV.cn",
+      "name": "兵团卫视",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Y4qxDqz.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8",
+          "quality": "540p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "NeiMonggolTV.cn",
+      "name": "内蒙古广播电视台",
+      "country": "CN",
+      "logo": "https://i.imgur.com/WeugJBE.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+          "quality": "960p",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+          "referrer": null
+        },
+        {
+          "url": "http://1.24.190.98:10080/hls/39/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://110.19.156.172:9901/tsfile/live/1003_1.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+          "quality": "1080i",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "LiangshanTV.cn",
+      "name": "凉山彝语频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/liangshantv.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://118.122.2.29:9999/hls/47/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BeijingSatelliteTV.cn",
+      "name": "北京卫视",
+      "country": "CN",
+      "logo": "https://i.imgur.com/vsktAez.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "NingxiaSatelliteChannel.cn",
+      "name": "卫视频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/nUQE4Ib.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8",
+          "quality": "540p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "IndigenousTV.tw",
+      "name": "原住民族電視台",
+      "country": "TW",
+      "logo": "https://i.imgur.com/vmk4F9u.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TTV.tw",
+      "name": "台视",
+      "country": "TW",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "SipingTV.cn",
+      "name": "四平广播电视台",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DaAi1.tw",
+      "name": "大愛電視",
+      "country": "TW",
+      "logo": "https://i.imgur.com/KdJi9af.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CelestialMovies.hk",
+      "name": "天映频道",
+      "country": "HK",
+      "logo": "https://i.imgur.com/Mb5ssnu.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
+          "quality": "576i",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "Good2.tw",
+      "name": "好消息電視台",
+      "country": "TW",
+      "logo": "https://i.imgur.com/YxFRoft.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "AnhuiTV.cn",
+      "name": "安徽卫视",
+      "country": "CN",
+      "logo": "https://i.imgur.com/gDn101f.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "AnshunComprehensiveNewsChannel.cn",
+      "name": "安顺新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://hplayer1.juyun.tv/camera/154379194.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HakkaTV.tw",
+      "name": "客家電視台",
+      "country": "TW",
+      "logo": "https://i.imgur.com/1CdGSbU.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiChildrensChannel.cn",
+      "name": "少儿频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShandongSatelliteTV.cn",
+      "name": "山东卫视",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/shandongtv.jpg",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://125.210.152.18:9090/live/SDWSHD_H265.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "KangbaTV.cn",
+      "name": "康巴卫视",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/kangbatv.jpg",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://110.185.237.164:8888/hls/30/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiMovieChannel.cn",
+      "name": "影视·旅游频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jiangxi.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JilinMovieChannel.cn",
+      "name": "影视频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV3.cn",
+      "name": "影视频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "LanzhouCultureTourismChannel.cn",
+      "name": "文旅频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/lanzhou.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChifengComprehensiveNewsChanel.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HarbinComprehensiveNewsChannel.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JingmenComprehensiveNewsChannel.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "LanzhouComprehensiveNewsChannel.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "NanchangNewsGeneralistChannel.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV1.cn",
+      "name": "新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv1.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChuxiongNewsChannel.cn",
+      "name": "新闻频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuSportsLeisureChannel.cn",
+      "name": "江苏体育休闲频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jsty.jpg",
+      "category": "地方频道",
+      "isSports": true,
+      "streams": [
+        {
+          "url": "http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuPublicNewsChannel.cn",
+      "name": "江苏公共新闻",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jsgg.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuSatelliteTV.cn",
+      "name": "江苏卫视",
+      "country": "CN",
+      "logo": null,
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/jswshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.34/PLTV/4/224/3221227402/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuCityChannel.cn",
+      "name": "江苏城市频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jscs.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuMovieChannel.cn",
+      "name": "江苏影视频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jsys.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangsuEducationalChannel.cn",
+      "name": "江苏教育频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jsjy.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HebeiTV.cn",
+      "name": "河北电视台",
+      "country": "CN",
+      "logo": "https://i.imgur.com/Z5Ppzbi.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://event.pull.hebtv.com/live/live101.m3u8",
+          "quality": "2160p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ZhejiangSatelliteTV.cn",
+      "name": "浙江卫视",
+      "country": "CN",
+      "logo": "https://i.imgur.com/NFFQNhq.png",
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://112.25.48.68/live/program/live/zjwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.34/PLTV/4/224/3221227393/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ShenzhenSatelliteTV.cn",
+      "name": "深圳卫视",
+      "country": "CN",
+      "logo": null,
+      "category": "卫视",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8",
+          "quality": "2160p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://112.25.48.68/live/program/live/szwshd/4000000/mnf.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.139/PLTV/4/224/3221227307/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "RTHKTV31.hk",
+      "name": "港台電視31",
+      "country": "HK",
+      "logo": "https://i.imgur.com/kf818kM.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+          "quality": "360p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "RTHKTV32.hk",
+      "name": "港台電視32",
+      "country": "HK",
+      "logo": "https://i.imgur.com/MXLuUoU.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
+          "quality": "360p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "RTHKTV33.hk",
+      "name": "港台電視33",
+      "country": "HK",
+      "logo": "https://i.imgur.com/2MProun.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "RTHKTV34.hk",
+      "name": "港台電視34",
+      "country": "HK",
+      "logo": "https://i.imgur.com/Kq5A6Qn.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "RTHKTV35.hk",
+      "name": "港台電視35",
+      "country": "HK",
+      "logo": "https://i.imgur.com/FQmNKDS.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HunanEconomyChannel.cn",
+      "name": "湖南经视",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/hnjs.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChuzhouPublicChannel.cn",
+      "name": "滁州市广播电视台 公共频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/9JfZJRv.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://live.cztv.cc:85/live/ggpd.m3u8",
+          "quality": "400p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChuzhouNewsChannel.cn",
+      "name": "滁州市广播电视台 新闻综合频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/9JfZJRv.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://live.cztv.cc:85/live/xwpd.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChuzhouScienceEducationChannel.cn",
+      "name": "滁州市广播电视台 科教频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/9JfZJRv.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
+          "quality": "400p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "ChaozhouPublicChannel.cn",
+      "name": "潮州公共",
+      "country": "CN",
+      "logo": "https://i.imgur.com/8YIrgB7.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://113.64.146.48:1688/hls/4/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV2.cn",
+      "name": "生活服务频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv2.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JilinLifestyleChannel.cn",
+      "name": "生活频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jlshpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BaichengTV.cn",
+      "name": "白城新闻综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/baicheng.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "DocumentaryHumanitiesChannel.cn",
+      "name": "纪实人文频道",
+      "country": "CN",
+      "logo": "https://i.imgur.com/CEcNWsE.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiEconomyLifeChannel.cn",
+      "name": "经济生活频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jxtv3.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GuangxiVarietyTravelChannel.cn",
+      "name": "综艺旅游频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "MeiAhMovieChannel.hk",
+      "name": "美亞電影台",
+      "country": "HK",
+      "logo": "https://i.imgur.com/laGiFM1.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "CTSNews.tw",
+      "name": "華視新聞資訊台",
+      "country": "TW",
+      "logo": "https://i.imgur.com/V1EVtRm.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "TonghuaTV.cn",
+      "name": "通化县广播电视台",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/thtv1.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://139.211.217.79:9004/hls/75/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JiangxiCityChannel.cn",
+      "name": "都市频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jxds.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "JilinCityChannel.cn",
+      "name": "都市频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV5.cn",
+      "name": "都市频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv5.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HunanWomensChannel.cn",
+      "name": "长沙女性频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/csnxpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HunanPoliticsLawChannel.cn",
+      "name": "长沙政法频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/cszfpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HunanNewsChannel.cn",
+      "name": "长沙新闻频道",
+      "country": "CN",
+      "logo": "https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "QTV6.cn",
+      "name": "青少旅游频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "BreadTV.cn",
+      "name": "面包台",
+      "country": "CN",
+      "logo": "https://bread-tv.com/uploads/allimg/241202/9_1836542371.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "PhoenixChineseChannel.hk",
+      "name": "鳳凰衛視中文台",
+      "country": "HK",
+      "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "PhoenixInfoNewsChannel.hk",
+      "name": "鳳凰衛視資訊台",
+      "country": "HK",
+      "logo": "https://i.imgur.com/mt4h3VO.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+          "quality": null,
+          "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+          "referrer": "https://www.dens.tv/"
+        },
+        {
+          "url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+          "quality": "576p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+          "quality": "720p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "GoldenJade.hk",
+      "name": "黃金翡翠台",
+      "country": "HK",
+      "logo": "https://i.imgur.com/lPYxsUr.png",
+      "category": "港台",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "HeilongjiangTV.cn",
+      "name": "黑龙江电视台",
+      "country": "CN",
+      "logo": "https://i.imgur.com/9fj1uba.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8",
+          "quality": "1080p",
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    }
+  ]
+}

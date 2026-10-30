@@ -1,0 +1,71 @@
+name: Update live TV programme guide
+on:
+  schedule:
+    - cron: '0 22,10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: live-epg-publish
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read pinned EPG revision
+        id: epg
+        run: echo "revision=$(python3 -c 'import json; print(json.load(open("Scripts/live/epg_sources.json"))["revision"])')" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: ${{ steps.epg.outputs.revision }}
+          path: .epg-upstream
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: .epg-upstream/package-lock.json
+      - name: Install pinned dependencies
+        run: npm ci
+        working-directory: .epg-upstream
+      - name: Preserve existing Pages content
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p .site
+          if git ls-remote --exit-code --heads origin gh-pages > /dev/null; then
+            git fetch origin gh-pages
+            git archive FETCH_HEAD | tar -x -C .site
+          fi
+      - name: Refresh catalogue
+        run: python3 Scripts/live/build_catalog.py --output .site/epg/channels.json
+      - name: Generate and validate programme guide
+        run: python3 Scripts/live/generate_epg.py --epg .epg-upstream --catalogue .site/epg/channels.json --output .site/epg
+      - name: Record coverage in run summary
+        run: |
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          m=json.load(open('.site/epg/manifest.json'))
+          print(f"Programme guide: {m['channelCount']} channels, {m['programmeCount']} programmes. Fresh: {m['freshChannelCount']}. Valid until: {m['validUntil']}.")
+          print(f"Upstream revision: {m['upstreamRevision']}")
+          PY
+      - name: Publish without replacing other site files
+        run: |
+          cd .site
+          touch .nojekyll
+          git init -b gh-pages
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "Update validated live programme guide"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git ls-remote --exit-code --heads origin gh-pages > /dev/null; then
+            git fetch origin gh-pages
+            git reset --soft FETCH_HEAD
+            git add .
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m "Update validated live programme guide"
+          fi
+          git push origin HEAD:gh-pages
