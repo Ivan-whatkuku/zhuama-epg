@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T03:20:54Z",
+  "generatedAt": "2026-11-03T17:37:01Z",
   "validFrom": "2026-11-02T16:00:00Z",
-  "validUntil": "2026-11-05T03:35:00Z",
+  "validUntil": "2026-11-05T17:45:00Z",
   "channelCount": 62,
-  "programmeCount": 3701,
-  "freshChannelCount": 62,
+  "programmeCount": 3758,
+  "freshChannelCount": 61,
   "upstreamRevision": "ae9cc64f9497c602ec2f6e17857ae38b3aa1ff05",
   "mappedChannelCount": 65,
   "missingChannelIDs": [
