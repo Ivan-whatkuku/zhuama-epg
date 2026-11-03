@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:00:00Z",
+  "generatedAt": "2026-11-03T03:20:33Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -2251,6 +2251,22 @@
       "streams": [
         {
           "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "XizangTVTibetan.cn",
+      "name": "Xizang TV Tibetan",
+      "country": "CN",
+      "logo": "https://i.imgur.com/NtvfnVV.png",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8",
           "quality": null,
           "userAgent": null,
           "referrer": null

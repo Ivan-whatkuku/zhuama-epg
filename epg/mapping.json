@@ -224,6 +224,11 @@
     "site": "tv.cctv.com",
     "siteID": "xinjiang"
   },
+  "XizangTVTibetan.cn": {
+    "upstreamID": "XizangTVTibetan.cn@SD",
+    "site": "tv.cctv.com",
+    "siteID": "xizang"
+  },
   "ZhejiangSatelliteTV.cn": {
     "upstreamID": "ZhejiangSatelliteTV.cn@SD",
     "site": "tv.cctv.com",
