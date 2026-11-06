@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:52:46Z",
+  "generatedAt": "2026-11-06T02:00:42Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -59,7 +59,7 @@
       "streams": [
         {
           "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "userAgent": null,
           "referrer": null
         }
@@ -2196,29 +2196,7 @@
           "referrer": null
         },
         {
-          "url": "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
-          "quality": null,
-          "userAgent": null,
-          "referrer": null
-        },
-        {
           "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
-          "quality": null,
-          "userAgent": null,
-          "referrer": null
-        }
-      ]
-    },
-    {
-      "id": "XinjiangTV5.cn",
-      "name": "Xinjiang TV 5",
-      "country": "CN",
-      "logo": "https://i.imgur.com/PARupWK.png",
-      "category": "地方频道",
-      "isSports": false,
-      "streams": [
-        {
-          "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
           "quality": null,
           "userAgent": null,
           "referrer": null
@@ -2572,7 +2550,7 @@
       "isSports": false,
       "streams": [
         {
-          "url": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1",
           "quality": null,
           "userAgent": null,
           "referrer": null
@@ -2962,7 +2940,7 @@
       "isSports": false,
       "streams": [
         {
-          "url": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
           "quality": null,
           "userAgent": null,
           "referrer": null
@@ -3080,7 +3058,7 @@
       "isSports": false,
       "streams": [
         {
-          "url": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1",
           "quality": null,
           "userAgent": null,
           "referrer": null
@@ -3263,7 +3241,7 @@
         },
         {
           "url": "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
-          "quality": null,
+          "quality": "540p",
           "userAgent": null,
           "referrer": null
         }
@@ -3658,7 +3636,7 @@
       "isSports": false,
       "streams": [
         {
-          "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
           "quality": null,
           "userAgent": null,
           "referrer": null
@@ -3842,7 +3820,7 @@
       "isSports": false,
       "streams": [
         {
-          "url": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1",
           "quality": null,
           "userAgent": null,
           "referrer": null
