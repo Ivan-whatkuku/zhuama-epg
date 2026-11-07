@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T17:13:45Z",
-  "validFrom": "2026-11-05T16:00:00Z",
-  "validUntil": "2026-11-08T17:50:00Z",
+  "generatedAt": "2026-11-07T01:40:11Z",
+  "validFrom": "2026-11-06T16:00:00Z",
+  "validUntil": "2026-11-09T01:50:00Z",
   "channelCount": 62,
-  "programmeCount": 3670,
+  "programmeCount": 3598,
   "freshChannelCount": 62,
   "upstreamRevision": "ae9cc64f9497c602ec2f6e17857ae38b3aa1ff05",
   "mappedChannelCount": 65,
@@ -132,6 +132,8 @@
     "XinjiangTV8.cn",
     "XuzhouEconomicLifeChannel.cn",
     "YanbianSatelliteTV.cn",
+    "YichangSanxiaGeneralChannel.cn",
+    "YichangSanxiaTravelLifeChannel.cn",
     "YouManCartoonChannel.cn",
     "YunnanSatelliteTV.cn",
     "ZhejiangInternationalChannel.cn"

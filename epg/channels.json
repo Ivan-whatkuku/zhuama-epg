@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:13:14Z",
+  "generatedAt": "2026-11-07T01:39:45Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -3088,6 +3088,22 @@
       ]
     },
     {
+      "id": "YichangSanxiaTravelLifeChannel.cn",
+      "name": "旅游生活频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://liveplay.ycrmt.cn/sxgd/lysh.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
       "id": "JiangsuSportsLeisureChannel.cn",
       "name": "江苏体育休闲频道",
       "country": "CN",
@@ -3621,6 +3637,22 @@
       "streams": [
         {
           "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        }
+      ]
+    },
+    {
+      "id": "YichangSanxiaGeneralChannel.cn",
+      "name": "综合频道",
+      "country": "CN",
+      "logo": "https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg",
+      "category": "地方频道",
+      "isSports": false,
+      "streams": [
+        {
+          "url": "https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8",
           "quality": null,
           "userAgent": null,
           "referrer": null
