@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:44:54Z",
+  "generatedAt": "2026-11-12T02:43:23Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -337,12 +337,6 @@
       "category": "央视",
       "isSports": false,
       "streams": [
-        {
-          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
         {
           "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
           "quality": null,
@@ -734,12 +728,6 @@
           "referrer": null
         },
         {
-          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
           "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8",
           "quality": null,
           "userAgent": null,
@@ -820,12 +808,6 @@
           "referrer": null
         },
         {
-          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
           "url": "https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8",
           "quality": null,
           "userAgent": null,
@@ -894,12 +876,6 @@
       "isSports": false,
       "streams": [
         {
-          "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
           "url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
           "quality": "1080p",
           "userAgent": null,
@@ -957,12 +933,6 @@
         },
         {
           "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
-          "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8",
           "quality": "1080p",
           "userAgent": null,
           "referrer": null
@@ -1034,12 +1004,6 @@
       "isSports": false,
       "streams": [
         {
-          "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
           "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
           "quality": "1080p",
           "userAgent": null,
@@ -1093,12 +1057,6 @@
       "category": "地方频道",
       "isSports": false,
       "streams": [
-        {
-          "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
         {
           "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
           "quality": "1080p",
