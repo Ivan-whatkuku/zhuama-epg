@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:31:12Z",
+  "generatedAt": "2026-11-25T04:48:57Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -323,6 +323,12 @@
       "streams": [
         {
           "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+          "quality": null,
+          "userAgent": null,
+          "referrer": null
+        },
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8",
           "quality": null,
           "userAgent": null,
           "referrer": null
