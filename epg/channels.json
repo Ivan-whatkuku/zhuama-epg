@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:22:51Z",
+  "generatedAt": "2026-11-28T03:44:21Z",
   "channels": [
     {
       "id": "AndoTV.cn",
@@ -453,12 +453,6 @@
       "streams": [
         {
           "url": "http://192.151.150.154/live/cctv8k.m3u8",
-          "quality": "1080p",
-          "userAgent": null,
-          "referrer": null
-        },
-        {
-          "url": "http://198.204.240.250:82/live/cctv8k.m3u8",
           "quality": "1080p",
           "userAgent": null,
           "referrer": null
